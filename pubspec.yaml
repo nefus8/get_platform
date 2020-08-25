@@ -1,6 +1,6 @@
 name: get_platform
 description: A simple package to get the platform the app is running on, web include.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/nefus8/get_platform
 
 environment:
